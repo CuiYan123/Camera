@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         textView = ((TextView) findViewById(R.id.text));
+<<<<<<< HEAD
         textView.setText("小秦网吧打");
+=======
+        textView.setText("cuiyan");
+>>>>>>> cff3a56e8ef4fb235cdaa49bca06dd1be4052213
     }
 }
